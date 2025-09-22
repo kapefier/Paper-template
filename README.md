@@ -1,6 +1,6 @@
-# 🧪 Scientific Project – Paper Title
+# 🧪 Scientific Project – Paper Template
 
-This repository contains the materials for the scientific project **"Paper Title"**, including manuscript, data, code, and supplementary materials.  
+This repository contains the materials for a scientific project, including manuscript, data, code, and supplementary materials.  
 It is intended to ensure **transparency, reproducibility, and open science**.  
 
 ---
