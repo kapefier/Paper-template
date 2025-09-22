@@ -5,4 +5,18 @@ It is intended to ensure **transparency, reproducibility, and open science**.
 
 ---
 
-See the repository structure for folders and placeholder files.
+## 📂 Repository Structure
+
+```text
+paper-project/
+ ├── manuscript/          # Article text and figures
+ │    ├── paper.tex       # Main manuscript (LaTeX) or paper.md
+ │    ├── refs.bib        # References
+ │    └── figures/        # Figures used in the paper
+ ├── data/                # Raw and processed datasets
+ ├── code/                # Scripts and analysis code
+ ├── results/             # Generated outputs (tables, plots)
+ ├── protocols/           # Experimental protocols, guidelines, SOPs
+ ├── supplementary/       # Supplementary material
+ ├── README.md            # Project overview (this file)
+ └── LICENSE              # License information
