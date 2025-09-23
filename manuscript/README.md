@@ -10,6 +10,6 @@ Example:
 pandoc paper.md --csl=vancouver.csl --bibliography=references.bib -o paper.docx
 ```
 
-## -refs.bib
+## - refs.bib
 Example reference file.
 
