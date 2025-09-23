@@ -1,4 +1,4 @@
-# Readme
+# /manuscript
 
 ## - manuscript.md
 Markdown template file, will contain all manuscript.
