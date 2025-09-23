@@ -10,7 +10,7 @@ It is intended to ensure **transparency, reproducibility, and open science**.
 ```text
 paper-project/
  ├── manuscript/          # Article text and figures
- │    ├── paper.tex       # Main manuscript (LaTeX) or paper.md
+ │    ├── paper.md        # Main manuscript (Markdown), easy to edit and convert
  │    ├── refs.bib        # References
  │    └── figures/        # Figures used in the paper
  ├── data/                # Raw and processed datasets
