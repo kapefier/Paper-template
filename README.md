@@ -8,7 +8,7 @@ It is intended to ensure **transparency, reproducibility, and open science**.
 ## 📂 Repository Structure
 
 ```text
-paper-project/
+root/
  ├── manuscript/          # Article text and figures
  │    ├── paper.md        # Main manuscript (Markdown), easy to edit and convert
  │    ├── refs.bib        # References
